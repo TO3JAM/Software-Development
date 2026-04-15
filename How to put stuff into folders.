@@ -1,0 +1,4 @@
+"Select your files: Choose the specific files you want to move or upload."
+"Skip the manual folder creation: You don't need to create a new folder ahead of time."
+"Use a file prefix: Add your new folder name and a slash directly in front of the filename."
+"Example: To tuck the file code into a new subfolder, rename the path from Software/code to Software/NewFolder/code."
